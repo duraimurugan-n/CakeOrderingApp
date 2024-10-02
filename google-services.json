@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418049902594",
+    "project_id": "cakeorderingapp-bc08e",
+    "storage_bucket": "cakeorderingapp-bc08e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418049902594:android:5f300d60f9d61968293f1b",
+        "android_client_info": {
+          "package_name": "com.cakeorderingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnl4mMJrmY1IXUXil540SyqOWz55xYT3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
